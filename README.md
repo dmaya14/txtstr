@@ -1,5 +1,5 @@
 # TxtStr
-##Lector, Escritor, Transcriptor de archivos .txt
+## Lector, Escritor, Transcriptor de archivos .txt
 
 ### ¿Como utilizarlo?
 Para utilizarlos tienes que tener el archivo **txtstr.py** en tu directorio de programación.
@@ -8,7 +8,7 @@ Para utilizarlos tienes que tener el archivo **txtstr.py** en tu directorio de p
  - Crear un identificador para utilizar las funciones
 `txtstr = txtstr`
 
-###Funciones y Valores
+### Funciones y Valores
 - Lector `txtstr.read(identificador,ruta)`
 - Escritor `txtstr.write(identificador, texto, nombre)`
 - Transcriptor `txtstr.transcript(identificador,rute,nombre)`
