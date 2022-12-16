@@ -13,7 +13,7 @@ Para utilizarlos tienes que tener el archivo **txtstr.py** en tu directorio de p
 - Escritor `txtstr.write(identificador, texto, nombre)`
 - Transcriptor `txtstr.transcript(identificador,rute,nombre)`
 
-[MyWeb](https://bit.ly/pinguimaya "MyWeb")
+[MyWeb](https://pingui.tk/ "MyWeb")
 
 ![](https://imgur.com/tpStozD.png)
 
