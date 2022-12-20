@@ -73,6 +73,7 @@ pip install txtstr
 <br/>
 <br/>
 * **txtstr.newkey(name)**
+
     ```python
     import txtstr
 
