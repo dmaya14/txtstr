@@ -72,6 +72,7 @@ pip install txtstr
 <br/>
 <br/>
 <br/>
+
 * **txtstr.newkey(name)**
 
     ```python
@@ -85,6 +86,7 @@ pip install txtstr
 <br/>
 <br/>
 <br/>
+
 * **txtstr.loadkey(name)**
     ```python
     import txtstr
@@ -98,6 +100,7 @@ pip install txtstr
 <br/>
 <br/>
 <br/>
+
 * **txtstr.encrypt(file, CUSTOM_KEY)**
   ```python
     import txtstr
@@ -112,6 +115,7 @@ pip install txtstr
 <br/>
 <br/>
 <br/>
+
 * **txtstr.decrypt(file, CUSTOM_KEY)**
   ```python
     import txtstr
