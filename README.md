@@ -18,8 +18,13 @@
     <a href="https://github.com/pinguimaya/txtstr/issues">Report Bug</a>
     ·
     <a href="https://github.com/pinguimaya/txtstr/issues">Request Feature</a>
+  
+    
+  
   </p>
 </p>
+
+[![Downloads](https://pepy.tech/badge/txtstr)](https://pepy.tech/project/txtstr)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
