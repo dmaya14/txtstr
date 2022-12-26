@@ -38,6 +38,9 @@ If you want the explanation ask me in **Twitch** [link](https://twitch.tv/pingui
 <!-- release notes -->
 ## Release notes
 Hi!, the new update of **txtstr** brings new commands that were necessary for this library to be useful, some commands have been modified to make it even easier to obtain the information they give you, below you will see the list of new and updated commands, Thanks so much for welcoming **txtstr**, good luck coding!
+
+## Bug fix
+We have fixed a bug that causes the word encrypt to be displayed in the console while decrypting, all fixed!
 <br/>
 <br/>
 
